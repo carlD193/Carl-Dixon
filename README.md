@@ -1,5 +1,7 @@
 # Carl-Dixon
-## Qualification 
+Hello welcome to my github page I'm interested in programming and will be posting my projects here. 
+
+## Qualifications 
 Hyperion Dev  
 Cyber security (fundaments) bootcamp course 
 
