@@ -1,5 +1,6 @@
-# Carl-Dixon
-Hello welcome to my github page I'm interested in programming and will be posting my projects here. 
+# Carl-Dixon                   
+Hello welcome to my github page                                                                   
+I'm interested in programming and will be posting my projects here. 
 
 ## Qualifications 
 **Hyperion Dev**  
@@ -19,8 +20,3 @@ BTEC level 3 Extended Diploma in applied science (Forensic science), triple grad
 **Blackburn College. Feilden St, Blackburn BB2 1LH**  
 GSCE grade 4, equivalent to a C 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt= "![image](https://github.com/carlD193/Carl-Dixon/assets/128071218/c0dfe3d3-0811-4486-9cb8-6f6d54bd63af)" src="YOUR-DEFAULT-IMAGE">
-</picture>
